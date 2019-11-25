@@ -1,0 +1,10 @@
+img{
+    height: 500px;
+    width: 100%;
+}
+.nom{
+    color: white;
+    font-size: 55px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
